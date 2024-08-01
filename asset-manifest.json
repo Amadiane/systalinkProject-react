@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/systalinkProject-react/static/css/main.db62923b.css",
+    "main.js": "/systalinkProject-react/static/js/main.6d521237.js",
+    "static/js/453.93b740cb.chunk.js": "/systalinkProject-react/static/js/453.93b740cb.chunk.js",
+    "index.html": "/systalinkProject-react/index.html",
+    "main.db62923b.css.map": "/systalinkProject-react/static/css/main.db62923b.css.map",
+    "main.6d521237.js.map": "/systalinkProject-react/static/js/main.6d521237.js.map",
+    "453.93b740cb.chunk.js.map": "/systalinkProject-react/static/js/453.93b740cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.6d521237.js"
+  ]
+}
